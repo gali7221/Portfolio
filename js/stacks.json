@@ -1,0 +1,29 @@
+[
+  {
+    "name":"EggHead",
+    "learned":"[AngularJS, Angular Automation, Protractor Testing]", 
+    "courses": ["AngularJS Application Architecture", "Learn Protractor Testing for AngularJS", "Angular Automation with Gulp", "AngularJS Data Modeling"]
+  },
+  {
+    "name":"Udacity",
+    "learned":"[HTML, CSS, Javascript, Website Optimization, Responsive Design]", 
+    "courses": ["Responsive Web Design Fundamentals", "Object-Oriented Javascript", "Website Performance Optimization"]
+  },
+  {
+    "name":"Thinkful",
+    "learned": ["jQuery", "Object-Oriented Javascript", "AJAX & Advanced jQuery", "AngularJS"], 
+    "courses": ["jQuery", "Object-Oriented Javascript", "AJAX & Advanced jQuery", "AngularJS"]
+  },
+  {
+    "name":"Thinkster",
+    "learned": ["AngularJS", "Firebase", "$templateCache", "ngAnimate"], 
+    "courses": ["Learn to build a Real-Time Slack clone with Firebase"]
+  }, 
+  {
+    "name":"Eloquent Javascript",
+    "learned": ["Javascript"], 
+    "courses": ["Javascript"]
+  }
+]
+
+

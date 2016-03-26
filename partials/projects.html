@@ -1,0 +1,27 @@
+<!-- PROJECTS -->
+<section class='section' id='projects'>
+  <h1>Projects</h1>
+  <div class='row'>
+    <!-- <a ng-href="#/partials/projects" class="btn-left">&lt;</a> -->
+    <a ng-href="#/projects2" class="btn-right">Next</a>
+    <div ng-repeat='project in projects | limitTo: 3' class='project'>
+      <div class='pic col-md-7'>
+        <a href='#/details/{{artists.indexOf(project)}}'>
+          <img ng-src="{{project.pic}}"/>
+        </a>
+      </div>
+      <div class='details col-md-5'>
+        <h1><a href="#/details/{{projects.indexOf(project)}}">{{project.name}}</h1></a>
+        <ul>
+          <li><a href="{{project.link}}">Github</a></li>
+        </ul>
+
+        <h6>Stack</h6>
+        <ul ng-repeat="stack in stacks">
+          <li>{{stack}}</li>
+        </ul>
+        <!--<p>{{ project.details }}</p>-->
+      </div>
+    </div>
+  </div>
+</section>

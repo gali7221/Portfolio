@@ -1,0 +1,51 @@
+[
+  {
+    "name":"Bookmarks",
+    "pic":"",
+    "link":"https://github.com/gali7221/crud",
+    "demo":"http://gali7221.github.io/crud/#/classifieds",
+    "stack":["AngularJS","Angular Material", "UI Router"], 
+    "courses": ["AngularJS Application Architecture", "AngularJS Data Modeling"]
+  },
+  {
+    "name":"Countries & Capitals.",
+    "pic":"images/countries.png",
+    "link":"https://github.com/gali7221/Countries",
+    "demo":"http://gali7221.github.io/Countries/",
+    "stack":["AngularJS", "Angular Services", "Geonames API"], 
+    "courses": ["AngularJS with Thinkful"]
+  },
+  {
+    "name":"InstagramJS",
+    "pic":"images/instagram.jpg",
+    "link":"https://github.com/gali7221/instagramjs",
+    "demo":"http://gali7221.github.io/instagramJS/",
+    "stack":["AngularJS", "Instagram API"],
+    "courses": ["AngularJS with Thinkful"]
+  },
+  {
+    "name":"Quiz",
+    "pic":"images/walkingdead.jpg",
+    "link":"https://github.com/gali7221/quizp",
+    "demo":"http://gali7221.github.io/Quizp/",
+    "stack":["HTML", "CSS", "Object Oriented Javascript"],
+    "courses": ["Javascript with Thinkful"]
+  },
+  {
+    "name":"Shopping List",
+    "pic":"images/shoppinglist.jpg",
+    "link":"https://github.com/gali7221/instagramjs",
+    "demo":"http://gali7221.github.io/ShoppingList/",
+    "stack": ["HTML", "CSS", "jQuery"]
+  },
+  {
+    "name":"Website Optimization",
+    "pic":"",
+    "link":"https://github.com/gali7221/Website-Optimization",
+    "demo":"http://gali7221.github.io/ShoppingList/",
+    "stack": ["HTML", "CSS", "jQuery"]
+  } 
+
+]
+
+
