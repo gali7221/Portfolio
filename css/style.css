@@ -20,6 +20,24 @@
   }
 }
 
+@media (mind-width: ) {
+  .sidebar-nav .nnavbar .navbar-collapse {
+
+  }
+  .sidebar-nav .navbar ul {
+
+  }
+  .sidebar-nav .navbar ul:not{
+
+  }
+  .sidebar-nav .navbar li {
+
+  }
+  .sidebar-nav .navbar li a {
+    
+  }
+}
+
 .navbar-default {
   border: none;
   background: white;
@@ -176,7 +194,7 @@ a:hover, a:visited, a:focus {
 }
 
 .btn-left {
-  margin-left: 0%;
+  margin-left: 2%;
   /*width: 0;
   height: 0;
   border-top: 10px solid transparent;

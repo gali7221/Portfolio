@@ -6,7 +6,7 @@
     <!-- <a href="#/details/{{nextItem}}" class="btn-right">&gt;</a> -->
     <div ng-repeat='project in projects | startFrom: 3' class='project'>
       <div class='pic col-md-7'>
-        <a href='#/details/{{artists.indexOf(project)}}'>
+        <a href="{{project.demo}}" target="_blank">
           <img ng-src="{{project.pic}}"/>
         </a>
       </div>
